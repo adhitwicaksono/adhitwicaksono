@@ -10,9 +10,9 @@ I'm an Indonesian plant molecular biologist who works with **plant bioinformatic
 
 # My External Links and Social Media
 
-Instagram (main): https://www.instagram.com/adhitwicaksono5889
-Instagram (science; currently hiatus): https://www.instagram.com/adhitsbiologylab
-Blog (in Indonesian): https://adhityowicaksono.wordpress.com
-Google Scholar: https://scholar.google.com/citations?user=Ij6ILSUAAAAJ
-ResearchGate: https://www.researchgate.net/profile/Adhityo-Wicaksono 
-LinkedIn: https://www.linkedin.com/in/adhitwicaksono
+- Instagram (main): https://www.instagram.com/adhitwicaksono5889
+- Instagram (science; currently hiatus): https://www.instagram.com/adhitsbiologylab
+- Blog (in Indonesian): https://adhityowicaksono.wordpress.com
+- Google Scholar: https://scholar.google.com/citations?user=Ij6ILSUAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Adhityo-Wicaksono 
+- LinkedIn: https://www.linkedin.com/in/adhitwicaksono
