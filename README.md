@@ -4,7 +4,7 @@ How to pronounce my name: `A-deet` - "DH" in my culture means that the "D" is do
 
 So, anyway, welcome to my GitHub account!
 
-I'm an Indonesian plant molecular biologist who works with **plant bioinformatics**. When I code, I often vibecode with help of my trusted AI, H.E.L.I.O.S (Hyper-Efficient Logic & Innovation Organization System).
+I'm an Indonesian plant molecular biologist who works with **plant bioinformatics**. When I code, I often vibecode with help of my trusted AI, H.E.L.I.O.S (Hyper-Efficient Logic & Innovation Organization System) the ChatGPT, sometimes Claude, and occasionally C.A.S.T.O.R. (Cognitive Assistant for Strategic Thought & Objective Reasoning) the Gemini.
 
 ✉️ `adhityo.wicaksono@gmail.com`
 
