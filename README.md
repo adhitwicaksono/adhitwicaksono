@@ -1,4 +1,4 @@
-## Hello there, Adhit's here! 👋
+# Hello there, Adhit's here! 👋
 
 How to pronounce my name: `A-deet` - "DH" in my culture means that the "D" is doubled when you read it.
 
@@ -8,7 +8,7 @@ I'm an Indonesian plant molecular biologist who works with **plant bioinformatic
 
 ✉️ `adhityo.wicaksono@gmail.com`
 
-# My External Links and Social Media
+## My External Links and Social Media
 
 - Instagram (main): https://www.instagram.com/adhitwicaksono5889
 - Instagram (science; currently hiatus): https://www.instagram.com/adhitsbiologylab
